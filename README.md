@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Washington, US
 
-> Free BeamStation sample export with 79 rows and masked direct-contact fields.
+> Free BeamStation sample export with 57 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `257991` |
 | Location | Washington |
 | Category | Restaurants |
-| Full dataset size | 795 records |
-| Free sample size | 79 records (9.94%) |
-| Last export | 2026-04-07T17:57:27.196654+00:00 |
+| Full dataset size | 578 records |
+| Free sample size | 57 records (9.86%) |
+| Last export | 2026-04-14T23:27:30.914091+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-washington-us-sample-257991/releases/download/sample-latest/beamstation_257991_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
